@@ -1,4 +1,4 @@
-# pytest
+﻿# pytest
 python程序设计基础期末涉及的代码
 ===
 一、通过复习，基本掌握以下内容:</br>
@@ -9,7 +9,7 @@ python程序设计基础期末涉及的代码
 （1）程序的基本结构以及流程图。</br>
 （2）分支结构程序设计，包括二分支结构和多分支结构。</br>
 （3）循环结构程序设计，包括for语句和while语句</br>
-（4）break与continue</br>
+（4）`break`与`continue`</br>
 （5）random库的使用</br>
 三、能力有限，不懂部分可参考菜鸟网:</br>
 [菜鸟网](http://www.runoob.com)
